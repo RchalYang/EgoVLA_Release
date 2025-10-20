@@ -228,6 +228,10 @@ bash human_plan/ego_bench_eval/fullpretrain_p30_h5_transv2.sh Humanoid-Push-Box-
 python human_plan/ego_bench_eval/batch_script_30hz.py
 ```
 
+### Note:
+The code hasn't been fully tested yet: There might be some hard-coded path issue. Let me know if there is any issues.
+
+This software is part of the BAIR Commons HIC Repository as of calendar year 2025.
 
 ## Bibtex
 ```
